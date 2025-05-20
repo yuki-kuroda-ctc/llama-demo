@@ -1,1 +1,1 @@
-docker run --rm -it -p 8000:8000 -v ../models:/models -e MODEL=/models/llama-model.gguf ghcr.io/abetlen/llama-cpp-python:latest
+docker run --rm -it -p 8000:8000 -v ../models:/models -e MODEL=/models/llama-2-7b-chat.Q4_K_M.gguf ghcr.io/abetlen/llama-cpp-python:latest

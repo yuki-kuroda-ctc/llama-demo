@@ -1,1 +1,1 @@
-wget -P ../models/ https://huggingface.co/TheBloke/Llama-2-7B-GGUF/blob/main/llama-2-7b.Q2_K.gguf
+wget -P ../models/  https://huggingface.co/TheBloke/Llama-2-7B-Chat-GGUF/resolve/main/llama-2-7b-chat.Q4_K_M.gguf
